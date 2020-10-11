@@ -946,9 +946,9 @@
                             {
                              "height":31.886457717327,
                              "id":2,
-                             "name":"",
+                             "name":"collides",
                              "rotation":0,
-                             "type":"",
+                             "type":"collides",
                              "visible":true,
                              "width":5.86635127143702,
                              "x":12.9627439384979,
