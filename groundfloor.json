@@ -1175,19 +1175,6 @@
          "tilewidth":32
         }, 
         {
-         "columns":149,
-         "firstgid":2180,
-         "image":"backgrounds\/3.png",
-         "imageheight":1301,
-         "imagewidth":4784,
-         "margin":0,
-         "name":"3",
-         "spacing":0,
-         "tilecount":5960,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":16,
          "firstgid":8140,
          "image":"tilesets_modern___mack_by_milkian_dbz1aoz.png",
