@@ -40,7 +40,7 @@
                  "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/map.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":10,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
          "name":"exit",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":10,
          "x":0,
          "y":0
@@ -64,7 +64,7 @@
          "name":"exit",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":10,
          "x":0,
          "y":0
@@ -76,7 +76,7 @@
          "name":"exit",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":10,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
          "name":"exit",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":10,
          "x":0,
          "y":0
@@ -112,7 +112,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":10,
          "x":0,
          "y":0
@@ -124,7 +124,7 @@
          "name":"beschriftung",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":10,
          "x":0,
          "y":0
