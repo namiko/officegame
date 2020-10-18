@@ -1222,6 +1222,19 @@
          "tilecount":1,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":8397,
+         "image":"d8cmhcy-2067cfca-aa2e-44b1-bcc1-a92b1c294d3c.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"traffic",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
