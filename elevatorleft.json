@@ -51,6 +51,12 @@
          "id":8,
          "name":"exit2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/map.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":10,
@@ -63,6 +69,12 @@
          "id":6,
          "name":"exit1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/map.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":10,
@@ -75,6 +87,12 @@
          "id":5,
          "name":"exitEG",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/map.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":10,
@@ -87,6 +105,12 @@
          "id":4,
          "name":"exitUG",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/map.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":10,
