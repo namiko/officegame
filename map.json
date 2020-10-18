@@ -39,6 +39,12 @@
          "id":27,
          "name":"exitToGroundFloor",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/groundfloor.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":158,
