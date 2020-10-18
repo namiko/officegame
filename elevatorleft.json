@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/fourthfloor.json#enterLeftElevator"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/fourthfloor.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -51,12 +51,6 @@
          "id":8,
          "name":"exit2",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/map.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":10,
@@ -69,12 +63,6 @@
          "id":6,
          "name":"exit1",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/map.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":10,
@@ -109,7 +97,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/map.json"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -136,7 +124,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":10,
          "x":0,
          "y":0
