@@ -123,6 +123,12 @@
          "id":1,
          "name":"bottom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/mynoise.net\/NoiseMachines\/osmosisDroneGenerator.php"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":15,
