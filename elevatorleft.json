@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/fourthfloor.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/fourthfloor.json#enterLeftElevator"
                 }],
          "type":"tilelayer",
          "visible":true,
