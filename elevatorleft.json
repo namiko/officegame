@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/map.json#enterfromleftelevator"
                 }],
          "type":"tilelayer",
          "visible":true,
