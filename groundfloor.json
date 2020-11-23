@@ -115,7 +115,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/maps.json#enterfromground_left"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/map.json#enterfromground_left"
                 }],
          "type":"tilelayer",
          "visible":true,
