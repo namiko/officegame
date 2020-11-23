@@ -113,7 +113,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/_\/global\/namiko.github.io\/officegame\/map.json#enterfromground_left"
                 }],
