@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"fourthfloor.json#enterfromelevator_left"
+                 "value":"fourthfloor.json#enterfromelevator_middle"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#enterfromelevator_left"
+                 "value":"map.json#enterfromelevator_middle"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"groundfloor.json#enterfromelevator_left"
+                 "value":"groundfloor.json#enterfromelevator_middle"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -121,7 +121,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/Kituc4LS64Q?controls=0"
+                 "value":"https:\/\/www.youtube.com\/embed\/vrdq7pWPUWY?controls=0"
                 }],
          "type":"tilelayer",
          "visible":true,
