@@ -41,7 +41,7 @@
         {
          "draworder":"topdown",
          "id":2,
-         "name":"florrLayer",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
