@@ -385,7 +385,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"christmas_market.json#enterfromground_left"
+                 "value":"christmas_market.json#enterfromground"
                 }],
          "type":"tilelayer",
          "visible":true,
