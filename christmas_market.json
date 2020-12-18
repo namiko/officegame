@@ -19,7 +19,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"de.isb.christmas.2"
+                 "value":"de.isb.christmas.3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -648,7 +648,7 @@
          "value":"groundfloor.json"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
