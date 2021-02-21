@@ -654,7 +654,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"O_B_snow_PandaMaru.png",
+         "image":"tileset\/O_B_snow_PandaMaru.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -821,7 +821,7 @@
         {
          "columns":16,
          "firstgid":257,
-         "image":"d8cmgm6-712f0226-035f-4186-b81b-cccf1765eebd.png",
+         "image":"tileset\/d8cmgm6-712f0226-035f-4186-b81b-cccf1765eebd.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2635,7 +2635,7 @@
         {
          "columns":12,
          "firstgid":513,
-         "image":"dapf5e8-4660a318-defb-4a9a-9229-88dc13be6576.png",
+         "image":"tileset\/dapf5e8-4660a318-defb-4a9a-9229-88dc13be6576.png",
          "imageheight":384,
          "imagewidth":384,
          "margin":0,
@@ -2648,7 +2648,7 @@
         {
          "columns":8,
          "firstgid":657,
-         "image":"d5zcvvl-4cc5cfc2-e61f-47f9-88cd-a913cc8cb468.png",
+         "image":"tileset\/d5zcvvl-4cc5cfc2-e61f-47f9-88cd-a913cc8cb468.png",
          "imageheight":384,
          "imagewidth":256,
          "margin":0,
@@ -2878,7 +2878,7 @@
         {
          "columns":8,
          "firstgid":753,
-         "image":"floortileset.png",
+         "image":"tileset\/floortileset.png",
          "imageheight":272,
          "imagewidth":272,
          "margin":0,
@@ -2891,7 +2891,7 @@
         {
          "columns":24,
          "firstgid":817,
-         "image":"d9k7oed-f1d1353a-6f1e-4bdf-8e48-4f4c833855b2.png",
+         "image":"tileset\/d9k7oed-f1d1353a-6f1e-4bdf-8e48-4f4c833855b2.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -3049,7 +3049,7 @@
         {
          "columns":12,
          "firstgid":1393,
-         "image":"Unorganized Parts\/Unorganized Parts\/addwork.png",
+         "image":"tileset\/Unorganized Parts\/Unorganized Parts\/addwork.png",
          "imageheight":2048,
          "imagewidth":384,
          "margin":0,
@@ -3567,7 +3567,7 @@
         {
          "columns":8,
          "firstgid":2161,
-         "image":"Pipoya RPG Tileset 32x32\/Pipoya RPG Tileset 32x32\/[Base]BaseChip_pipo.png",
+         "image":"tileset\/Pipoya RPG Tileset 32x32\/Pipoya RPG Tileset 32x32\/[Base]BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -3698,7 +3698,7 @@
         {
          "columns":32,
          "firstgid":3225,
-         "image":"d9k7oed-f1d1353a-6f1e-4bdf-8e48-4f4c833855b2-scaled.png",
+         "image":"tileset\/d9k7oed-f1d1353a-6f1e-4bdf-8e48-4f4c833855b2-scaled.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -3928,7 +3928,7 @@
         {
          "columns":16,
          "firstgid":4249,
-         "image":"d9k7oed-f1d1353a-6f1e-4bdf-8e48-4f4c833855b2-minified.png",
+         "image":"tileset\/d9k7oed-f1d1353a-6f1e-4bdf-8e48-4f4c833855b2-minified.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -3941,7 +3941,7 @@
         {
          "columns":17,
          "firstgid":4505,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"tileset\/tilesets_deviant_milkian_1.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":0,
@@ -3954,7 +3954,7 @@
         {
          "columns":8,
          "firstgid":4794,
-         "image":"floortileset_scaled.png",
+         "image":"tileset\/floortileset_scaled.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -3967,7 +3967,7 @@
         {
          "columns":12,
          "firstgid":4858,
-         "image":"figuren.png",
+         "image":"tileset\/figuren.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -3980,7 +3980,7 @@
         {
          "columns":12,
          "firstgid":4954,
-         "image":"figurenMitSchal.png",
+         "image":"tileset\/figurenMitSchal.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -3993,7 +3993,7 @@
         {
          "columns":12,
          "firstgid":5050,
-         "image":"nochmehrfiguren.png",
+         "image":"tileset\/nochmehrfiguren.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -4006,11 +4006,11 @@
         {
          "columns":12,
          "firstgid":5146,
-         "image":"nochmehrfiguren_gro\u00df.png",
+         "image":"tileset\/nochmehrfiguren_gro\u00df.png",
          "imageheight":532,
          "imagewidth":384,
          "margin":0,
-         "name":"nochmehrfiguren_gro\u00df",
+         "name":"tileset\/nochmehrfiguren_gro\u00df",
          "spacing":0,
          "tilecount":192,
          "tileheight":32,
@@ -4019,7 +4019,7 @@
         {
          "columns":12,
          "firstgid":5338,
-         "image":"figurenMitSchal_gross.png",
+         "image":"tileset\/figurenMitSchal_gross.png",
          "imageheight":511,
          "imagewidth":384,
          "margin":0,
